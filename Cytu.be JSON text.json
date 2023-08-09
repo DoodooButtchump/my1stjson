@@ -1,0 +1,19 @@
+{
+    "ok": true,
+    "list": {
+        "uuid": "939fbf65-9040-4392-ae06-5817dd84f57a",
+        "order_uuid": null,
+        "channels": [
+            {
+                "channel_url": "crayon-shin-chan",
+                "image_url": "https://i.ibb.co/ySLVHQv/shin-chan-channel.png",
+                "title": "Checkout the Crayon Shin-Chan Channel"
+            },
+		{
+                "channel_url": "https://cytu.be/r/SpaceGhostCoast2Coast",
+                "image_url": "https://i.ibb.co/S7hwvmP/Space-Ghost-Coast-to-Coast-Channel.png",
+                "title": "Checkout the Space Ghost Coast to Coast Channel"
+            }
+        ]
+    }
+}
